@@ -1,0 +1,2 @@
+/home/cygon24/aipowered/android/app/.cxx/RelWithDebInfo/s3l3e3y6/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/cygon24/aipowered/android/app/.cxx/RelWithDebInfo/s3l3e3y6/armeabi-v7a/CMakeFiles/rebuild_cache.dir

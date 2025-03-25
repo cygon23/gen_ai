@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/home/cygon24/snap/flutter/common/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/cygon24/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/cygon24/aipowered/android/app/.cxx/RelWithDebInfo/s3l3e3y6/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/cygon24/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/cygon24/aipowered/android/app/.cxx/RelWithDebInfo/s3l3e3y6/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

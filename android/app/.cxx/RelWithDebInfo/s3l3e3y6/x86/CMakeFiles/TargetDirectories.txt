@@ -1,0 +1,2 @@
+/home/cygon24/aipowered/android/app/.cxx/RelWithDebInfo/s3l3e3y6/x86/CMakeFiles/edit_cache.dir
+/home/cygon24/aipowered/android/app/.cxx/RelWithDebInfo/s3l3e3y6/x86/CMakeFiles/rebuild_cache.dir
